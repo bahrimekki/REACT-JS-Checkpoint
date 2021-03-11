@@ -8,7 +8,7 @@ function App() {
           <Card.Header>
             <Jumbotron text-center>
               <h1>My First React js App</h1>
-              <p>constructed by Bahri Makki within the framework of the REACT JS checkpoint</p> 
+              <p>constructed by Bahri Makki as part of the REACT JS checkpoint</p> 
             </Jumbotron>
             <Nav variant="tabs" defaultActiveKey="#first">
               <Nav.Item>
